@@ -1,0 +1,30 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen_Sad",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Sad",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Sad",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Sad",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Sad",
+			"Value": 0.8,
+			"Blend": "Add"
+		}
+	]
+}

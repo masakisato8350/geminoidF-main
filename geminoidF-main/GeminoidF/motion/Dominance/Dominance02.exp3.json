@@ -1,0 +1,30 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamEyeLOpen_Happy2",
+			"Value": 0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Happy2",
+			"Value": 0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Happy3",
+			"Value": 0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Happy3",
+			"Value": 0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Happy2",
+			"Value": 0.2,
+			"Blend": "Add"
+		}
+	]
+}

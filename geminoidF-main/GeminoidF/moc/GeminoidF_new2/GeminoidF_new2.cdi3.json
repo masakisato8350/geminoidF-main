@@ -1,0 +1,513 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamBrowL_Happy2",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Happy2",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamEyeOpenL",
+			"GroupId": "ParamGroup",
+			"Name": "左目の開閉"
+		},
+		{
+			"Id": "ParamEyeOpenR",
+			"GroupId": "ParamGroup",
+			"Name": "右目の開閉"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "目玉X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "目玉Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamEyeLOpen_Happy2",
+			"GroupId": "ParamGroup9",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Happy2",
+			"GroupId": "ParamGroup9",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Happy3",
+			"GroupId": "ParamGroup9",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Happy3",
+			"GroupId": "ParamGroup9",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Happy2",
+			"GroupId": "ParamGroup9",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen_Happy",
+			"GroupId": "ParamGroup2",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Happy",
+			"GroupId": "ParamGroup2",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Happy",
+			"GroupId": "ParamGroup2",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Happy",
+			"GroupId": "ParamGroup2",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Happy",
+			"GroupId": "ParamGroup2",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen_Sad",
+			"GroupId": "ParamGroup3",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Sad",
+			"GroupId": "ParamGroup3",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Sad",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Sad",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Sad",
+			"GroupId": "ParamGroup3",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen_Anger",
+			"GroupId": "ParamGroup4",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Anger",
+			"GroupId": "ParamGroup4",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Anger",
+			"GroupId": "ParamGroup4",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Anger",
+			"GroupId": "ParamGroup4",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Anger",
+			"GroupId": "ParamGroup4",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen_Surprised",
+			"GroupId": "ParamGroup5",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Surprised",
+			"GroupId": "ParamGroup5",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Surprised",
+			"GroupId": "ParamGroup5",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Surprised",
+			"GroupId": "ParamGroup5",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Surprised",
+			"GroupId": "ParamGroup5",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen_Fear",
+			"GroupId": "ParamGroup6",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Fear",
+			"GroupId": "ParamGroup6",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Fear",
+			"GroupId": "ParamGroup6",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Fear",
+			"GroupId": "ParamGroup6",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Fear",
+			"GroupId": "ParamGroup6",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen_Disgust",
+			"GroupId": "ParamGroup7",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Disgust",
+			"GroupId": "ParamGroup7",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Disgust",
+			"GroupId": "ParamGroup7",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Disgust",
+			"GroupId": "ParamGroup7",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Disgust",
+			"GroupId": "ParamGroup7",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen_Regret",
+			"GroupId": "ParamGroup8",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Regret",
+			"GroupId": "ParamGroup8",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Regret",
+			"GroupId": "ParamGroup8",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Regret",
+			"GroupId": "ParamGroup8",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Regret",
+			"GroupId": "ParamGroup8",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup11",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup11",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup11",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBow",
+			"GroupId": "ParamGroup11",
+			"Name": "おじぎ"
+		},
+		{
+			"Id": "ParamNoridashi",
+			"GroupId": "ParamGroup11",
+			"Name": "乗り出し"
+		},
+		{
+			"Id": "ParamFHC",
+			"GroupId": "ParamGroup12",
+			"Name": "前髪C"
+		},
+		{
+			"Id": "ParamFHC2",
+			"GroupId": "ParamGroup12",
+			"Name": "前髪C２"
+		},
+		{
+			"Id": "ParamSHR",
+			"GroupId": "ParamGroup12",
+			"Name": "横髪R"
+		},
+		{
+			"Id": "ParamSHR2",
+			"GroupId": "ParamGroup12",
+			"Name": "横髪R2"
+		},
+		{
+			"Id": "ParamSHL",
+			"GroupId": "ParamGroup12",
+			"Name": "横髪L"
+		},
+		{
+			"Id": "ParamSHL2",
+			"GroupId": "ParamGroup12",
+			"Name": "横髪L2"
+		},
+		{
+			"Id": "ParamBH1",
+			"GroupId": "ParamGroup12",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "ParamBH2",
+			"GroupId": "ParamGroup12",
+			"Name": "後ろ髪2"
+		},
+		{
+			"Id": "ParamBreathe",
+			"GroupId": "ParamGroup12",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamArmL",
+			"GroupId": "ParamGroup13",
+			"Name": "左腕"
+		},
+		{
+			"Id": "ParamHandL",
+			"GroupId": "ParamGroup13",
+			"Name": "手の開閉L"
+		},
+		{
+			"Id": "ParamArmR",
+			"GroupId": "ParamGroup13",
+			"Name": "右腕"
+		},
+		{
+			"Id": "ParamHandR",
+			"GroupId": "ParamGroup13",
+			"Name": "手の開閉R"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "ニュートラル"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "支配的笑顔"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "喜び"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "悲しみ"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "怒り"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "驚き"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "恐れ"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "嫌悪"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "後悔"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "頭部XYZ"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "物理演算"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "腕"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "支配_女.psd"
+		},
+		{
+			"Id": "GeminoidF",
+			"Name": "GeminoidF"
+		},
+		{
+			"Id": "PartSketch0",
+			"Name": "[ 下絵 ]"
+		},
+		{
+			"Id": "Part43",
+			"Name": "頭部"
+		},
+		{
+			"Id": "Part55",
+			"Name": "トップス"
+		},
+		{
+			"Id": "Part56",
+			"Name": "首"
+		},
+		{
+			"Id": "Part57",
+			"Name": "鎖骨"
+		},
+		{
+			"Id": "Part58",
+			"Name": "襟裏"
+		},
+		{
+			"Id": "Part59",
+			"Name": "腕L"
+		},
+		{
+			"Id": "Part61",
+			"Name": "スカート"
+		},
+		{
+			"Id": "Part62",
+			"Name": "足"
+		},
+		{
+			"Id": "Part63",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part",
+			"Name": "ハイライト"
+		},
+		{
+			"Id": "Part44",
+			"Name": "前髪"
+		},
+		{
+			"Id": "Part7",
+			"Name": "顔パーツ_ニュートラル"
+		},
+		{
+			"Id": "Part53",
+			"Name": "輪郭"
+		},
+		{
+			"Id": "Part54",
+			"Name": "耳"
+		},
+		{
+			"Id": "Part60",
+			"Name": "手"
+		},
+		{
+			"Id": "Part2",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "Part3",
+			"Name": "鼻パーツ"
+		},
+		{
+			"Id": "Part4",
+			"Name": "口パーツ"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		],
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamFHC",
+			"ParamFHC2"
+		],
+		[
+			"ParamSHR",
+			"ParamSHR2"
+		],
+		[
+			"ParamSHL",
+			"ParamSHL2"
+		],
+		[
+			"ParamBH1",
+			"ParamBH2"
+		]
+	]
+}
